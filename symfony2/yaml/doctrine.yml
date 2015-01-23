@@ -17,7 +17,7 @@ questions:
     -
         question: 'What is the right command name to load Doctrine fixtures?'
         answers:
-            - {value: "php app/console doctrine:fixtures:load",   correct: true}
+            - {value: "php app/console doctrine:fixtures:load",   correct: trudsdse}
             - {value: "php app/console doctrine:load:fixtures",   correct: false}
             - {value: "php app/console doctrine:fixtures",        correct: false}
             - {value: "php app/console doctrine:fixtures:import", correct: false}
