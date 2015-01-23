@@ -20,7 +20,7 @@ questions:
             - {value: "Expires",       correct: true}
             - {value: "Last-Modified", correct: false}
             - {value: "ETag",          correct: false}
-            - {value: "Cache-Control", correct: true}
+            - {value: "Cache-Control", correct: foo}
             - {value: "Cookie",        correct: false}
     -
         question: 'Which HTTP headers belongs to validation cache model?'
