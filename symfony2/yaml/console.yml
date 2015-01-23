@@ -25,7 +25,7 @@ questions:
         answers:
             - {value: "ConsoleEvents::COMMAND",   correct: true}
             - {value: "ConsoleEvents::TERMINATE", correct: true}
-            - {value: "ConsoleEvents::EXCEPTION", correct: true}
+            - {value: "ConsoleEvents::EXCEPTION", correct: sdsd}
             - {value: "ConsoleEvents::BEFORE",    correct: false}
             - {value: "ConsoleEvents::AFTER",     correct: false}
     -
