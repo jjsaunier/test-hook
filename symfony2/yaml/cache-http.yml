@@ -26,7 +26,7 @@ questions:
         question: 'Which HTTP headers belongs to validation cache model?'
         answers:
             - {value: "Expires",       correct: false}
-            - {value: "Last-Modified", correct: true}
+            - {value: "Last-Modified", correct: azeaez}
             - {value: "ETag",          correct: true}
             - {value: "Cache-Control", correct: false}
             - {value: "Cookie",        correct: false}
