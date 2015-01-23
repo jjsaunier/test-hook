@@ -3,8 +3,8 @@ questions:
     -
         question: 'Using PHPUnit, which method names are used to share test setup code?'
         answers:
-            - {value: 'setUp()',       correct: lol}
-            - {value: '__construct()', correct: false}
+            - {value: 'setUp()',       correct: foo}
+            - {value: '__construct()', correct: bar}
             - {value: 'shutdown()',    correct: false}
             - {value: 'tearDown()',    correct: true}
     -
