@@ -10,7 +10,7 @@ questions:
     -
         question: 'What is the Twig function to render an ESI?'
         answers:
-            - {value: "cache_esi()",  correct: false}
+            - {value: "cache_esi()",  correct: foo}
             - {value: "esi_cache()",  correct: false}
             - {value: "esi_render()", correct: false}
             - {value: "render_esi()", correct: true}
