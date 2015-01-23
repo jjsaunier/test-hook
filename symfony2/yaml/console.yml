@@ -27,7 +27,7 @@ questions:
             - {value: "ConsoleEvents::TERMINATE", correct: true}
             - {value: "ConsoleEvents::EXCEPTION", correct: sdsd}
             - {value: "ConsoleEvents::BEFORE",    correct: false}
-            - {value: "ConsoleEvents::AFTER",     correct: false}
+            - {value: "ConsoleEvents::AFTER",     correct: zeze}
     -
         question: 'Using Console component, which of these class allows to create custom output styles?'
         answers:
