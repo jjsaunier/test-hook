@@ -19,7 +19,7 @@ questions:
         answers:
             - {value: "php app/console twig:lint",     correct: true}
             - {value: "php app/console twig:check",    correct: false}
-            - {value: "php app/console twig:validate", correct: false}
+            - {value: "php app/console twig:validate", correct: foo}
             - {value: "php app/console twig:syntax",   correct: false}
     -
         question: 'What is the console command to clear cache?'
